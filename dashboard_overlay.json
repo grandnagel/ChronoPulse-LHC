@@ -1,1 +1,17 @@
-
+[
+  {
+    "event_time": "2025-08-28T14:03:00Z",
+    "lag_seconds": 4200,
+    "magnitude": 5.6
+  },
+  {
+    "event_time": "2025-08-29T03:17:00Z",
+    "lag_seconds": 1800,
+    "magnitude": 6.1
+  },
+  {
+    "event_time": "2025-08-30T11:45:00Z",
+    "lag_seconds": 9600,
+    "magnitude": 4.9
+  }
+]
